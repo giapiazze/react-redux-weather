@@ -35,7 +35,7 @@ class WeatherList extends Component {
 					<th>Città</th>
 					<th>Temperatura (K)</th>
 					<th>Pressione (hPa)</th>
-					<th>Uumidità (%)</th>
+					<th>Umidità (%)</th>
 				</tr>
 				</thead>
 				<tbody>
